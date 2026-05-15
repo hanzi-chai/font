@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="鱼省" format="2">
+	<unicode hex="E425"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="263" y="548" type="line"/>
+			<point x="238" y="559" type="line"/>
+			<point x="293" y="623"/>
+			<point x="339" y="694" type="qcurve"/>
+			<point x="617" y="694" type="line"/>
+			<point x="556" y="602"/>
+			<point x="505" y="548" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="251" y="133" type="line"/>
+			<point x="764" y="133" type="line"/>
+			<point x="764" y="82" type="line"/>
+			<point x="773" y="82" type="line" smooth="yes"/>
+			<point x="789" y="82"/>
+			<point x="828" y="99"/>
+			<point x="829" y="105" type="qcurve"/>
+			<point x="829" y="507" type="line"/>
+			<point x="861" y="513"/>
+			<point x="872" y="526" type="qcurve"/>
+			<point x="791" y="589" type="line"/>
+			<point x="754" y="548" type="line"/>
+			<point x="535" y="548" type="line"/>
+			<point x="606" y="594"/>
+			<point x="704" y="687" type="qcurve"/>
+			<point x="734" y="687"/>
+			<point x="745" y="697" type="qcurve"/>
+			<point x="668" y="766" type="line"/>
+			<point x="624" y="724" type="line"/>
+			<point x="358" y="724" type="line"/>
+			<point x="379" y="758"/>
+			<point x="394" y="790" type="qcurve"/>
+			<point x="424" y="781"/>
+			<point x="433" y="795" type="qcurve"/>
+			<point x="333" y="841" type="line"/>
+			<point x="291" y="725"/>
+			<point x="132" y="482"/>
+			<point x="46" y="407" type="qcurve"/>
+			<point x="59" y="395" type="line"/>
+			<point x="122" y="437"/>
+			<point x="186" y="502" type="qcurve"/>
+			<point x="186" y="62" type="line"/>
+			<point x="197" y="62" type="line" smooth="yes"/>
+			<point x="218" y="62"/>
+			<point x="251" y="79"/>
+			<point x="251" y="85" type="qcurve" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="251" y="163" type="line"/>
+			<point x="251" y="327" type="line"/>
+			<point x="474" y="327" type="line"/>
+			<point x="474" y="163" type="line"/>
+		</contour>
+		<contour>
+			<point x="538" y="327" type="line"/>
+			<point x="764" y="327" type="line"/>
+			<point x="764" y="163" type="line"/>
+			<point x="538" y="163" type="line"/>
+		</contour>
+		<contour>
+			<point x="251" y="357" type="line"/>
+			<point x="251" y="518" type="line"/>
+			<point x="474" y="518" type="line"/>
+			<point x="474" y="357" type="line"/>
+		</contour>
+		<contour>
+			<point x="538" y="518" type="line"/>
+			<point x="764" y="518" type="line"/>
+			<point x="764" y="357" type="line"/>
+			<point x="538" y="357" type="line"/>
+		</contour>
+	</outline>
+	<note>
+鱼省
+</note>
+</glyph>

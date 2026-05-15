@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="师字旁" format="2">
+	<unicode hex="E044"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="566" y="821" type="line"/>
+			<point x="566" y="418" type="line"/>
+			<point x="566" y="243"/>
+			<point x="551" y="75"/>
+			<point x="410" y="-46" type="curve"/>
+			<point x="430" y="-58"/>
+			<point x="453" y="-82"/>
+			<point x="469" y="-97" type="curve"/>
+			<point x="617" y="40"/>
+			<point x="637" y="219"/>
+			<point x="637" y="418" type="curve"/>
+			<point x="637" y="821" type="line"/>
+		</contour>
+		<contour>
+			<point x="406" y="708" type="line"/>
+			<point x="406" y="219" type="line"/>
+			<point x="473" y="219" type="line"/>
+			<point x="473" y="708" type="line"/>
+		</contour>
+	</outline>
+</glyph>

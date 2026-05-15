@@ -1,0 +1,5 @@
+defcon
+ufo2ft
+fonttools
+brotli
+ufonormalizer

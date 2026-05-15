@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="飞无折" format="2">
+	<unicode hex="E088"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="707" y="606" type="line"/>
+			<point x="656" y="547"/>
+			<point x="582" y="473"/>
+			<point x="512" y="415" type="curve"/>
+			<point x="520" y="313" type="line"/>
+			<point x="605" y="266"/>
+			<point x="695" y="204"/>
+			<point x="746" y="161" type="curve"/>
+			<point x="785" y="219" type="line"/>
+			<point x="734" y="262"/>
+			<point x="641" y="325"/>
+			<point x="555" y="368" type="curve"/>
+			<point x="629" y="426"/>
+			<point x="711" y="504"/>
+			<point x="773" y="571" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

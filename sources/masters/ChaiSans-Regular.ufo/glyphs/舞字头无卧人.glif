@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="舞字头无卧人" format="2">
+	<unicode hex="E0AA"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="625" y="395" type="line"/>
+			<point x="734" y="395" type="line"/>
+			<point x="734" y="297" type="line"/>
+			<point x="625" y="297" type="line"/>
+		</contour>
+		<contour>
+			<point x="445" y="395" type="line"/>
+			<point x="559" y="395" type="line"/>
+			<point x="559" y="297" type="line"/>
+			<point x="445" y="297" type="line"/>
+		</contour>
+		<contour>
+			<point x="273" y="395" type="line"/>
+			<point x="383" y="395" type="line"/>
+			<point x="383" y="297" type="line"/>
+			<point x="273" y="297" type="line"/>
+		</contour>
+		<contour>
+			<point x="734" y="563" type="line"/>
+			<point x="734" y="461" type="line"/>
+			<point x="625" y="461" type="line"/>
+			<point x="625" y="563" type="line"/>
+			<point x="559" y="563" type="line"/>
+			<point x="559" y="461" type="line"/>
+			<point x="445" y="461" type="line"/>
+			<point x="445" y="559" type="line"/>
+			<point x="383" y="559" type="line"/>
+			<point x="383" y="461" type="line"/>
+			<point x="273" y="461" type="line"/>
+			<point x="273" y="559" type="line"/>
+			<point x="203" y="559" type="line"/>
+			<point x="203" y="461" type="line"/>
+			<point x="105" y="461" type="line"/>
+			<point x="105" y="395" type="line"/>
+			<point x="203" y="395" type="line"/>
+			<point x="203" y="297" type="line"/>
+			<point x="51" y="297" type="line"/>
+			<point x="51" y="231" type="line"/>
+			<point x="953" y="231" type="line"/>
+			<point x="953" y="297" type="line"/>
+			<point x="805" y="297" type="line"/>
+			<point x="805" y="395" type="line"/>
+			<point x="918" y="395" type="line"/>
+			<point x="918" y="461" type="line"/>
+			<point x="805" y="461" type="line"/>
+			<point x="805" y="563" type="line"/>
+		</contour>
+	</outline>
+</glyph>

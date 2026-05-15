@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="虐字底" format="2">
+	<unicode hex="E0B4"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="227" y="395" type="line"/>
+			<point x="227" y="325" type="line"/>
+			<point x="328" y="325" type="line"/>
+			<point x="328" y="63" type="line"/>
+			<point x="879" y="63" type="line"/>
+			<point x="879" y="129" type="line"/>
+			<point x="402" y="129" type="line"/>
+			<point x="402" y="325" type="line"/>
+			<point x="914" y="325" type="line"/>
+			<point x="914" y="395" type="line"/>
+			<point x="402" y="395" type="line"/>
+			<point x="402" y="563" type="line"/>
+			<point x="863" y="563" type="line"/>
+			<point x="863" y="629" type="line"/>
+			<point x="328" y="629" type="line"/>
+			<point x="328" y="395" type="line"/>
+		</contour>
+	</outline>
+</glyph>

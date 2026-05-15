@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="臼裂" format="2">
+	<unicode hex="E421"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="109" y="715" type="line"/>
+			<point x="109" y="-54" type="line"/>
+			<point x="184" y="-54" type="line"/>
+			<point x="184" y="20" type="line"/>
+			<point x="457" y="20" type="line"/>
+			<point x="457" y="94" type="line"/>
+			<point x="184" y="94" type="line"/>
+			<point x="184" y="344" type="line"/>
+			<point x="441" y="344" type="line"/>
+			<point x="441" y="418" type="line"/>
+			<point x="184" y="418" type="line"/>
+			<point x="184" y="633" type="line"/>
+			<point x="289" y="680"/>
+			<point x="406" y="735"/>
+			<point x="492" y="793" type="curve"/>
+			<point x="430" y="860" type="line"/>
+			<point x="363" y="805"/>
+			<point x="262" y="747"/>
+			<point x="164" y="704" type="curve"/>
+		</contour>
+		<contour>
+			<point x="543" y="731" type="line"/>
+			<point x="543" y="657" type="line"/>
+			<point x="816" y="657" type="line"/>
+			<point x="816" y="418" type="line"/>
+			<point x="551" y="418" type="line"/>
+			<point x="551" y="344" type="line"/>
+			<point x="816" y="344" type="line"/>
+			<point x="816" y="94" type="line"/>
+			<point x="535" y="94" type="line"/>
+			<point x="535" y="20" type="line"/>
+			<point x="816" y="20" type="line"/>
+			<point x="816" y="-50" type="line"/>
+			<point x="891" y="-50" type="line"/>
+			<point x="891" y="731" type="line"/>
+		</contour>
+	</outline>
+</glyph>

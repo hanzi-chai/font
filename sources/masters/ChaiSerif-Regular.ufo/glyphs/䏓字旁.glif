@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="䏓字旁" format="2">
+	<unicode hex="E10B"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="178" y="621" type="line"/>
+			<point x="205" y="591"/>
+			<point x="237" y="508"/>
+			<point x="248" y="463" type="qcurve"/>
+			<point x="264" y="446"/>
+			<point x="295" y="468"/>
+			<point x="295" y="527"/>
+			<point x="244" y="599"/>
+			<point x="189" y="630" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="105" y="505" type="line" smooth="yes"/>
+			<point x="105" y="313"/>
+			<point x="81" y="45"/>
+			<point x="36" y="-70" type="qcurve"/>
+			<point x="53" y="-79" type="line"/>
+			<point x="133" y="48"/>
+			<point x="154" y="261" type="qcurve" smooth="yes"/>
+			<point x="163" y="348"/>
+			<point x="163" y="506" type="qcurve" smooth="yes"/>
+			<point x="163" y="752" type="line"/>
+			<point x="310" y="752" type="line"/>
+			<point x="310" y="377" type="line"/>
+			<point x="189" y="284"/>
+			<point x="154" y="261" type="qcurve"/>
+			<point x="209" y="197" type="line"/>
+			<point x="220" y="207"/>
+			<point x="220" y="226" type="qcurve"/>
+			<point x="265" y="281"/>
+			<point x="310" y="341" type="qcurve"/>
+			<point x="310" y="24" type="line" smooth="yes"/>
+			<point x="310" y="13"/>
+			<point x="301" y="4"/>
+			<point x="288" y="4" type="qcurve" smooth="yes"/>
+			<point x="182" y="11"/>
+			<point x="182" y="11" type="qcurve"/>
+			<point x="182" y="-5" type="line"/>
+			<point x="239" y="-14"/>
+			<point x="257" y="-29" type="qcurve" smooth="yes"/>
+			<point x="272" y="-41"/>
+			<point x="277" y="-75" type="qcurve"/>
+			<point x="335" y="-69"/>
+			<point x="370" y="-27"/>
+			<point x="370" y="17" type="qcurve" smooth="yes"/>
+			<point x="370" y="743" type="line"/>
+			<point x="401" y="750"/>
+			<point x="409" y="761" type="qcurve"/>
+			<point x="332" y="820" type="line"/>
+			<point x="301" y="781" type="line"/>
+			<point x="175" y="781" type="line"/>
+			<point x="105" y="813" type="line"/>
+			<point x="105" y="791" type="line"/>
+		</contour>
+	</outline>
+	<note>
+䏓字旁
+</note>
+</glyph>

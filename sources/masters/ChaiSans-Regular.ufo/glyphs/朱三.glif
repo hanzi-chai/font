@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="朱三" format="2">
+	<unicode hex="E40F"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="895" y="606" type="line"/>
+			<point x="895" y="676" type="line"/>
+			<point x="258" y="676" type="line"/>
+			<point x="277" y="723"/>
+			<point x="293" y="770"/>
+			<point x="309" y="817" type="curve"/>
+			<point x="230" y="833" type="line"/>
+			<point x="195" y="696"/>
+			<point x="129" y="563"/>
+			<point x="51" y="477" type="curve"/>
+			<point x="70" y="469"/>
+			<point x="105" y="450"/>
+			<point x="121" y="438" type="curve"/>
+			<point x="160" y="485"/>
+			<point x="195" y="540"/>
+			<point x="227" y="606" type="curve"/>
+		</contour>
+		<contour>
+			<point x="51" y="364" type="line"/>
+			<point x="51" y="290" type="line"/>
+			<point x="949" y="290" type="line"/>
+			<point x="949" y="364" type="line"/>
+		</contour>
+	</outline>
+</glyph>

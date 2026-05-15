@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="虐字底" format="2">
+	<unicode hex="E0B4"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="743" y="266" type="line"/>
+			<point x="434" y="266" type="line"/>
+			<point x="352" y="309" type="line"/>
+			<point x="352" y="136" type="line"/>
+			<point x="211" y="136" type="line"/>
+			<point x="220" y="107" type="line"/>
+			<point x="352" y="107" type="line"/>
+			<point x="352" y="3" type="line"/>
+			<point x="335" y="-6"/>
+			<point x="324" y="-19" type="qcurve"/>
+			<point x="399" y="-66" type="line"/>
+			<point x="424" y="-31" type="line"/>
+			<point x="877" y="-31" type="line" smooth="yes"/>
+			<point x="899" y="-31"/>
+			<point x="903" y="-15" type="qcurve"/>
+			<point x="882" y="4"/>
+			<point x="816" y="54"/>
+			<point x="816" y="54" type="qcurve"/>
+			<point x="770" y="-2" type="line"/>
+			<point x="417" y="-2" type="line"/>
+			<point x="417" y="107" type="line"/>
+			<point x="925" y="107" type="line" smooth="yes"/>
+			<point x="948" y="107"/>
+			<point x="952" y="123" type="qcurve"/>
+			<point x="932" y="141"/>
+			<point x="870" y="190"/>
+			<point x="870" y="190" type="qcurve"/>
+			<point x="828" y="136" type="line"/>
+			<point x="417" y="136" type="line"/>
+			<point x="417" y="236" type="line"/>
+			<point x="843" y="236" type="line" smooth="yes"/>
+			<point x="865" y="236"/>
+			<point x="869" y="252" type="qcurve"/>
+			<point x="849" y="270"/>
+			<point x="787" y="319"/>
+			<point x="787" y="319" type="qcurve"/>
+		</contour>
+	</outline>
+	<note>
+虐字底
+</note>
+</glyph>

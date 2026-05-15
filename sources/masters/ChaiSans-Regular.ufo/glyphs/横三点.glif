@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="横三点" format="2">
+	<unicode hex="E448"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="160" y="575" type="line"/>
+			<point x="145" y="489"/>
+			<point x="113" y="379"/>
+			<point x="66" y="309" type="curve"/>
+			<point x="133" y="282" type="line"/>
+			<point x="176" y="352"/>
+			<point x="207" y="465"/>
+			<point x="227" y="555" type="curve"/>
+		</contour>
+		<contour>
+			<point x="371" y="536" type="line"/>
+			<point x="406" y="454"/>
+			<point x="438" y="344"/>
+			<point x="449" y="282" type="curve"/>
+			<point x="516" y="309" type="line"/>
+			<point x="504" y="372"/>
+			<point x="469" y="477"/>
+			<point x="434" y="559" type="curve"/>
+		</contour>
+		<contour>
+			<point x="656" y="540" type="line"/>
+			<point x="703" y="461"/>
+			<point x="746" y="352"/>
+			<point x="766" y="290" type="curve"/>
+			<point x="828" y="321" type="line"/>
+			<point x="809" y="387"/>
+			<point x="762" y="489"/>
+			<point x="715" y="567" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

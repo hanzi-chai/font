@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="以字旁" format="2">
+	<unicode hex="E44F"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="547" y="700" type="line"/>
+			<point x="605" y="629"/>
+			<point x="672" y="528"/>
+			<point x="699" y="461" type="curve"/>
+			<point x="766" y="500" type="line"/>
+			<point x="734" y="567"/>
+			<point x="672" y="665"/>
+			<point x="613" y="735" type="curve"/>
+		</contour>
+		<contour>
+			<point x="313" y="8" type="curve"/>
+			<point x="340" y="32"/>
+			<point x="375" y="55"/>
+			<point x="668" y="192" type="curve"/>
+			<point x="660" y="208"/>
+			<point x="652" y="243"/>
+			<point x="645" y="262" type="curve"/>
+			<point x="414" y="153" type="line"/>
+			<point x="414" y="750" type="line"/>
+			<point x="332" y="750" type="line"/>
+			<point x="332" y="161" type="line"/>
+			<point x="332" y="118"/>
+			<point x="293" y="83"/>
+			<point x="273" y="71" type="curve"/>
+			<point x="285" y="55"/>
+			<point x="309" y="28"/>
+		</contour>
+	</outline>
+</glyph>

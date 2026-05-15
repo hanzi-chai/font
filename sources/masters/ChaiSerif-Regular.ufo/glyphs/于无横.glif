@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="于无横" format="2">
+	<unicode hex="E413"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="470" y="454" type="line"/>
+			<point x="43" y="454" type="line"/>
+			<point x="52" y="425" type="line"/>
+			<point x="470" y="425" type="line"/>
+			<point x="470" y="29" type="line" smooth="yes"/>
+			<point x="470" y="16"/>
+			<point x="458" y="5"/>
+			<point x="442" y="5" type="qcurve" smooth="yes"/>
+			<point x="426" y="5"/>
+			<point x="286" y="15"/>
+			<point x="286" y="15" type="qcurve"/>
+			<point x="286" y="0" type="line"/>
+			<point x="362" y="-9"/>
+			<point x="393" y="-28" type="qcurve"/>
+			<point x="416" y="-45"/>
+			<point x="418" y="-78" type="qcurve"/>
+			<point x="491" y="-72"/>
+			<point x="537" y="-21"/>
+			<point x="537" y="26" type="qcurve" smooth="yes"/>
+			<point x="537" y="425" type="line"/>
+			<point x="929" y="425" type="line" smooth="yes"/>
+			<point x="952" y="425"/>
+			<point x="957" y="440" type="qcurve"/>
+			<point x="933" y="461"/>
+			<point x="858" y="520"/>
+			<point x="858" y="520" type="qcurve"/>
+			<point x="806" y="454" type="line"/>
+			<point x="537" y="454" type="line"/>
+			<point x="537" y="723" type="line"/>
+			<point x="470" y="723" type="line"/>
+		</contour>
+	</outline>
+	<note>
+于无横
+</note>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="朱三" format="2">
+	<unicode hex="E40F"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="925" y="373" type="line" smooth="yes"/>
+			<point x="948" y="373"/>
+			<point x="951" y="389" type="qcurve"/>
+			<point x="928" y="410"/>
+			<point x="857" y="466"/>
+			<point x="857" y="466" type="qcurve"/>
+			<point x="806" y="402" type="line"/>
+			<point x="530" y="402" type="line"/>
+			<point x="464" y="402" type="line"/>
+			<point x="49" y="402" type="line"/>
+			<point x="58" y="373" type="line"/>
+			<point x="557" y="373" type="line"/>
+		</contour>
+		<contour>
+			<point x="836" y="613" type="line" smooth="yes"/>
+			<point x="860" y="613"/>
+			<point x="864" y="629" type="qcurve"/>
+			<point x="841" y="649"/>
+			<point x="772" y="703"/>
+			<point x="772" y="703" type="qcurve"/>
+			<point x="722" y="641" type="line"/>
+			<point x="530" y="641" type="line"/>
+			<point x="464" y="641" type="line"/>
+			<point x="267" y="641" type="line"/>
+			<point x="295" y="699"/>
+			<point x="314" y="750" type="qcurve"/>
+			<point x="343" y="750"/>
+			<point x="351" y="770" type="qcurve"/>
+			<point x="247" y="801" type="line"/>
+			<point x="196" y="583"/>
+			<point x="99" y="442" type="qcurve"/>
+			<point x="113" y="433" type="line"/>
+			<point x="188" y="498"/>
+			<point x="252" y="613" type="qcurve"/>
+			<point x="464" y="613" type="line"/>
+			<point x="530" y="613" type="line"/>
+		</contour>
+	</outline>
+	<note>
+朱三
+</note>
+</glyph>

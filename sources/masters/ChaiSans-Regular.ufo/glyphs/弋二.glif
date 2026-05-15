@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="弋二" format="2">
+	<unicode hex="E417"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="55" y="567" type="line"/>
+			<point x="55" y="493" type="line"/>
+			<point x="543" y="493" type="line"/>
+			<point x="578" y="176"/>
+			<point x="676" y="-97"/>
+			<point x="848" y="-97" type="curve"/>
+			<point x="922" y="-97"/>
+			<point x="949" y="-54"/>
+			<point x="961" y="102" type="curve"/>
+			<point x="941" y="110"/>
+			<point x="914" y="125"/>
+			<point x="898" y="141" type="curve"/>
+			<point x="895" y="20"/>
+			<point x="883" y="-23"/>
+			<point x="852" y="-23" type="curve"/>
+			<point x="742" y="-23"/>
+			<point x="652" y="208"/>
+			<point x="617" y="493" type="curve"/>
+			<point x="949" y="493" type="line"/>
+			<point x="949" y="567" type="line"/>
+			<point x="609" y="567" type="line"/>
+			<point x="605" y="633"/>
+			<point x="605" y="708"/>
+			<point x="605" y="778" type="curve"/>
+			<point x="527" y="778" type="line"/>
+			<point x="527" y="708"/>
+			<point x="531" y="637"/>
+			<point x="535" y="567" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

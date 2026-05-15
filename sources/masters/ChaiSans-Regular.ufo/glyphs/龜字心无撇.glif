@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="龜字心无撇" format="2">
+	<unicode hex="E171"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="539" y="606" type="line"/>
+			<point x="539" y="12" type="line"/>
+			<point x="465" y="12"/>
+			<point x="453" y="24"/>
+			<point x="453" y="71" type="curve"/>
+			<point x="453" y="606" type="line"/>
+			<point x="219" y="606" type="line"/>
+			<point x="219" y="704" type="line"/>
+			<point x="789" y="704" type="line"/>
+			<point x="789" y="606" type="line"/>
+		</contour>
+		<contour>
+			<point x="152" y="754" type="line"/>
+			<point x="152" y="551" type="line"/>
+			<point x="387" y="551" type="line"/>
+			<point x="387" y="71" type="line"/>
+			<point x="387" y="-23"/>
+			<point x="422" y="-46"/>
+			<point x="543" y="-46" type="curve"/>
+			<point x="570" y="-46"/>
+			<point x="801" y="-46"/>
+			<point x="832" y="-46" type="curve"/>
+			<point x="930" y="-46"/>
+			<point x="949" y="-19"/>
+			<point x="961" y="75" type="curve"/>
+			<point x="941" y="79"/>
+			<point x="914" y="86"/>
+			<point x="898" y="94" type="curve"/>
+			<point x="895" y="28"/>
+			<point x="883" y="12"/>
+			<point x="828" y="12" type="curve"/>
+			<point x="605" y="12" type="line"/>
+			<point x="605" y="551" type="line"/>
+			<point x="863" y="551" type="line"/>
+			<point x="863" y="754" type="line"/>
+		</contour>
+	</outline>
+</glyph>

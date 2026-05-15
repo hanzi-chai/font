@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="鱼省" format="2">
+	<unicode hex="E425"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="238" y="305" type="line"/>
+			<point x="465" y="305" type="line"/>
+			<point x="465" y="176" type="line"/>
+			<point x="238" y="176" type="line"/>
+		</contour>
+		<contour>
+			<point x="539" y="305" type="line"/>
+			<point x="773" y="305" type="line"/>
+			<point x="773" y="176" type="line"/>
+			<point x="539" y="176" type="line"/>
+		</contour>
+		<contour>
+			<point x="238" y="497" type="line"/>
+			<point x="465" y="497" type="line"/>
+			<point x="465" y="368" type="line"/>
+			<point x="238" y="368" type="line"/>
+		</contour>
+		<contour>
+			<point x="539" y="497" type="line"/>
+			<point x="773" y="497" type="line"/>
+			<point x="773" y="368" type="line"/>
+			<point x="539" y="368" type="line"/>
+		</contour>
+		<contour>
+			<point x="344" y="825" type="line"/>
+			<point x="289" y="727"/>
+			<point x="191" y="606"/>
+			<point x="55" y="520" type="curve"/>
+			<point x="70" y="504"/>
+			<point x="94" y="477"/>
+			<point x="105" y="461" type="curve"/>
+			<point x="125" y="473"/>
+			<point x="148" y="493"/>
+			<point x="168" y="508" type="curve"/>
+			<point x="168" y="110" type="line"/>
+			<point x="852" y="110" type="line"/>
+			<point x="852" y="559" type="line"/>
+			<point x="602" y="559" type="line"/>
+			<point x="645" y="606"/>
+			<point x="680" y="661"/>
+			<point x="707" y="711" type="curve"/>
+			<point x="656" y="743" type="line"/>
+			<point x="645" y="739" type="line"/>
+			<point x="379" y="739" type="line"/>
+			<point x="398" y="762"/>
+			<point x="410" y="786"/>
+			<point x="426" y="809" type="curve"/>
+		</contour>
+		<contour>
+			<point x="230" y="559" type="line"/>
+			<point x="266" y="598"/>
+			<point x="301" y="633"/>
+			<point x="332" y="672" type="curve"/>
+			<point x="598" y="672" type="line"/>
+			<point x="574" y="633"/>
+			<point x="543" y="594"/>
+			<point x="512" y="559" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

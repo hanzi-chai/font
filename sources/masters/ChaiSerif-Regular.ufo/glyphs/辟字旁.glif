@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="辟字旁" format="2">
+	<unicode hex="E952"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="121" y="529" type="line" smooth="yes"/>
+			<point x="121" y="362"/>
+			<point x="88" y="110"/>
+			<point x="34" y="4" type="qcurve"/>
+			<point x="49" y="-7" type="line"/>
+			<point x="129" y="92"/>
+			<point x="181" y="349"/>
+			<point x="182" y="504" type="qcurve"/>
+			<point x="382" y="504" type="line"/>
+			<point x="382" y="464" type="line"/>
+			<point x="391" y="464" type="line" smooth="yes"/>
+			<point x="406" y="464"/>
+			<point x="443" y="479"/>
+			<point x="444" y="484" type="qcurve"/>
+			<point x="444" y="710" type="line"/>
+			<point x="476" y="716"/>
+			<point x="487" y="729" type="qcurve"/>
+			<point x="408" y="790" type="line"/>
+			<point x="372" y="751" type="line"/>
+			<point x="194" y="751" type="line"/>
+			<point x="121" y="783" type="line"/>
+			<point x="121" y="761" type="line"/>
+		</contour>
+		<contour>
+			<point x="182" y="721" type="line"/>
+			<point x="382" y="721" type="line"/>
+			<point x="382" y="533" type="line"/>
+			<point x="182" y="533" type="line"/>
+		</contour>
+		<contour>
+			<point x="239" y="66" type="line"/>
+			<point x="239" y="315" type="line"/>
+			<point x="386" y="315" type="line"/>
+			<point x="386" y="66" type="line"/>
+		</contour>
+		<contour>
+			<point x="178" y="-64" type="line"/>
+			<point x="187" y="-64" type="line" smooth="yes"/>
+			<point x="208" y="-64"/>
+			<point x="239" y="-48"/>
+			<point x="239" y="-43" type="qcurve" smooth="yes"/>
+			<point x="239" y="37" type="line"/>
+			<point x="386" y="37" type="line"/>
+			<point x="386" y="-17" type="line"/>
+			<point x="395" y="-17" type="line" smooth="yes"/>
+			<point x="410" y="-17"/>
+			<point x="446" y="-1"/>
+			<point x="447" y="4" type="qcurve"/>
+			<point x="447" y="304" type="line"/>
+			<point x="479" y="310"/>
+			<point x="490" y="323" type="qcurve"/>
+			<point x="412" y="384" type="line"/>
+			<point x="376" y="345" type="line"/>
+			<point x="251" y="345" type="line"/>
+			<point x="178" y="377" type="line"/>
+		</contour>
+	</outline>
+	<note>
+辟字旁
+</note>
+</glyph>

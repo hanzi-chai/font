@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="横两撇" format="2">
+	<unicode hex="E41E"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="711" y="543" type="line"/>
+			<point x="648" y="329"/>
+			<point x="527" y="165"/>
+			<point x="352" y="63" type="curve"/>
+			<point x="371" y="51"/>
+			<point x="398" y="32"/>
+			<point x="410" y="20" type="curve"/>
+			<point x="586" y="129"/>
+			<point x="711" y="309"/>
+			<point x="785" y="543" type="curve"/>
+		</contour>
+		<contour>
+			<point x="523" y="543" type="line"/>
+			<point x="477" y="434"/>
+			<point x="402" y="340"/>
+			<point x="305" y="282" type="curve"/>
+			<point x="324" y="270"/>
+			<point x="352" y="247"/>
+			<point x="363" y="235" type="curve"/>
+			<point x="461" y="305"/>
+			<point x="547" y="415"/>
+			<point x="598" y="543" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

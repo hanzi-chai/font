@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="里无日" format="2">
+	<unicode hex="E43A"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="465" y="386" type="line"/>
+			<point x="465" y="357" type="line"/>
+			<point x="465" y="198" type="line"/>
+			<point x="131" y="198" type="line"/>
+			<point x="139" y="168" type="line"/>
+			<point x="465" y="168" type="line"/>
+			<point x="465" y="-13" type="line"/>
+			<point x="42" y="-13" type="line"/>
+			<point x="50" y="-41" type="line"/>
+			<point x="932" y="-41" type="line" smooth="yes"/>
+			<point x="954" y="-41"/>
+			<point x="959" y="-26" type="qcurve"/>
+			<point x="936" y="-5"/>
+			<point x="864" y="51"/>
+			<point x="864" y="51" type="qcurve"/>
+			<point x="813" y="-13" type="line"/>
+			<point x="532" y="-13" type="line"/>
+			<point x="532" y="168" type="line"/>
+			<point x="856" y="168" type="line" smooth="yes"/>
+			<point x="880" y="168"/>
+			<point x="883" y="184" type="qcurve"/>
+			<point x="860" y="205"/>
+			<point x="790" y="260"/>
+			<point x="790" y="260" type="qcurve"/>
+			<point x="740" y="198" type="line"/>
+			<point x="532" y="198" type="line"/>
+			<point x="532" y="357" type="line"/>
+			<point x="532" y="386" type="line"/>
+			<point x="532" y="548" type="line"/>
+			<point x="532" y="577" type="line"/>
+			<point x="532" y="740" type="line"/>
+			<point x="465" y="740" type="line"/>
+			<point x="465" y="577" type="line"/>
+			<point x="465" y="548" type="line"/>
+		</contour>
+	</outline>
+	<note>
+里无日
+</note>
+</glyph>

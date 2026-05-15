@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="业无横" format="2">
+	<unicode hex="E408"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="105" y="608" type="line"/>
+			<point x="162" y="505"/>
+			<point x="244" y="286"/>
+			<point x="250" y="184" type="qcurve"/>
+			<point x="280" y="157"/>
+			<point x="317" y="206"/>
+			<point x="301" y="337"/>
+			<point x="210" y="517"/>
+			<point x="122" y="614" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="656" y="169" type="line"/>
+			<point x="720" y="256"/>
+			<point x="850" y="474"/>
+			<point x="891" y="558" type="qcurve"/>
+			<point x="920" y="550"/>
+			<point x="932" y="568" type="qcurve"/>
+			<point x="833" y="623" type="line"/>
+			<point x="762" y="425"/>
+			<point x="656" y="215" type="qcurve"/>
+			<point x="656" y="786" type="line"/>
+			<point x="672" y="787"/>
+			<point x="686" y="800"/>
+			<point x="688" y="811" type="qcurve"/>
+			<point x="592" y="821" type="line"/>
+			<point x="592" y="10" type="line"/>
+			<point x="656" y="10" type="line"/>
+		</contour>
+		<contour>
+			<point x="421" y="786" type="line"/>
+			<point x="450" y="789"/>
+			<point x="453" y="811" type="qcurve"/>
+			<point x="356" y="822" type="line"/>
+			<point x="356" y="10" type="line"/>
+			<point x="421" y="10" type="line"/>
+		</contour>
+	</outline>
+	<note>
+业无横
+</note>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="千二" format="2">
+	<unicode hex="E195"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="677" y="732"/>
+			<point x="800" y="758" type="qcurve"/>
+			<point x="837" y="744"/>
+			<point x="852" y="756" type="qcurve"/>
+			<point x="778" y="826" type="line"/>
+			<point x="666" y="787"/>
+			<point x="290" y="714"/>
+			<point x="120" y="700" type="qcurve"/>
+			<point x="123" y="680" type="line"/>
+			<point x="284" y="683"/>
+			<point x="465" y="704" type="qcurve" smooth="yes"/>
+			<point x="533" y="713" type="line" smooth="yes"/>
+		</contour>
+		<contour>
+			<point x="931" y="407" type="line" smooth="yes"/>
+			<point x="954" y="407"/>
+			<point x="958" y="423" type="qcurve"/>
+			<point x="934" y="444"/>
+			<point x="861" y="504"/>
+			<point x="861" y="504" type="qcurve"/>
+			<point x="808" y="437" type="line"/>
+			<point x="533" y="437" type="line"/>
+			<point x="465" y="437" type="line"/>
+			<point x="48" y="437" type="line"/>
+			<point x="56" y="407" type="line"/>
+			<point x="465" y="407" type="line"/>
+			<point x="533" y="407" type="line"/>
+		</contour>
+	</outline>
+	<note>
+千二
+</note>
+</glyph>

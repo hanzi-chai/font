@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="南字心" format="2">
+	<unicode hex="E016"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="322" y="485" type="line"/>
+			<point x="344" y="458"/>
+			<point x="379" y="381"/>
+			<point x="383" y="348" type="qcurve"/>
+			<point x="404" y="330"/>
+			<point x="442" y="349"/>
+			<point x="445" y="403"/>
+			<point x="392" y="467"/>
+			<point x="334" y="492" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="628" y="329" type="line"/>
+			<point x="560" y="329" type="line"/>
+			<point x="613" y="383"/>
+			<point x="656" y="448" type="qcurve"/>
+			<point x="688" y="448"/>
+			<point x="694" y="465" type="qcurve"/>
+			<point x="599" y="496" type="line"/>
+			<point x="560" y="383"/>
+			<point x="535" y="329" type="qcurve"/>
+			<point x="272" y="329" type="line"/>
+			<point x="280" y="299" type="line"/>
+			<point x="465" y="299" type="line"/>
+			<point x="465" y="174" type="line"/>
+			<point x="245" y="174" type="line"/>
+			<point x="253" y="144" type="line"/>
+			<point x="465" y="144" type="line"/>
+			<point x="465" y="-60" type="line"/>
+			<point x="475" y="-60" type="line" smooth="yes"/>
+			<point x="498" y="-60"/>
+			<point x="529" y="-45"/>
+			<point x="529" y="-40" type="qcurve" smooth="yes"/>
+			<point x="529" y="144" type="line"/>
+			<point x="737" y="144" type="line" smooth="yes"/>
+			<point x="759" y="144"/>
+			<point x="763" y="160" type="qcurve"/>
+			<point x="744" y="178"/>
+			<point x="681" y="228"/>
+			<point x="681" y="228" type="qcurve"/>
+			<point x="637" y="174" type="line"/>
+			<point x="529" y="174" type="line"/>
+			<point x="529" y="299" type="line"/>
+			<point x="720" y="299" type="line" smooth="yes"/>
+			<point x="742" y="299"/>
+			<point x="745" y="315" type="qcurve"/>
+			<point x="727" y="332"/>
+			<point x="670" y="377"/>
+			<point x="670" y="377" type="qcurve"/>
+		</contour>
+	</outline>
+	<note>
+南字心
+</note>
+</glyph>

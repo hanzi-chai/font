@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="衣省变" format="2">
+	<unicode hex="E106"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="447" y="385" type="line"/>
+			<point x="447" y="355" type="line"/>
+			<point x="563" y="355" type="line"/>
+			<point x="462" y="233"/>
+			<point x="295" y="150" type="qcurve"/>
+			<point x="305" y="135" type="line"/>
+			<point x="446" y="185"/>
+			<point x="543" y="256" type="qcurve"/>
+			<point x="543" y="46" type="line"/>
+			<point x="553" y="46" type="line" smooth="yes"/>
+			<point x="574" y="46"/>
+			<point x="607" y="64"/>
+			<point x="607" y="70" type="qcurve" smooth="yes"/>
+			<point x="607" y="310" type="line"/>
+			<point x="630" y="331"/>
+			<point x="649" y="355" type="qcurve"/>
+			<point x="761" y="355" type="line"/>
+			<point x="761" y="385" type="line"/>
+		</contour>
+		<contour>
+			<point x="618" y="252" type="line"/>
+			<point x="703" y="215"/>
+			<point x="845" y="118"/>
+			<point x="877" y="80" type="qcurve"/>
+			<point x="909" y="68"/>
+			<point x="934" y="110"/>
+			<point x="868" y="191"/>
+			<point x="780" y="225" type="qcurve"/>
+			<point x="833" y="259"/>
+			<point x="884" y="304" type="qcurve"/>
+			<point x="898" y="300"/>
+			<point x="919" y="306"/>
+			<point x="924" y="313" type="qcurve"/>
+			<point x="847" y="365" type="line"/>
+			<point x="794" y="286"/>
+			<point x="749" y="236" type="qcurve"/>
+			<point x="691" y="254"/>
+			<point x="625" y="268" type="qcurve"/>
+		</contour>
+	</outline>
+	<note>
+衣省变
+</note>
+</glyph>

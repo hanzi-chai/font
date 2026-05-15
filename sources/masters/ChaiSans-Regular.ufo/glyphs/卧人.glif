@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="卧人" format="2">
+	<unicode hex="E078"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="301" y="676" type="line"/>
+			<point x="238" y="508"/>
+			<point x="145" y="340"/>
+			<point x="35" y="235" type="curve"/>
+			<point x="55" y="223"/>
+			<point x="94" y="200"/>
+			<point x="109" y="188" type="curve"/>
+			<point x="164" y="247"/>
+			<point x="219" y="325"/>
+			<point x="266" y="411" type="curve"/>
+			<point x="938" y="411" type="line"/>
+			<point x="938" y="485" type="line"/>
+			<point x="305" y="485" type="line"/>
+			<point x="332" y="540"/>
+			<point x="359" y="598"/>
+			<point x="379" y="657" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

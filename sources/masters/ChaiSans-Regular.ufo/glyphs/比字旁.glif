@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="比字旁" format="2">
+	<unicode hex="E079"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="438" y="-89" type="curve"/>
+			<point x="461" y="-74"/>
+			<point x="500" y="-58"/>
+			<point x="773" y="32" type="curve"/>
+			<point x="770" y="47"/>
+			<point x="766" y="83"/>
+			<point x="770" y="106" type="curve"/>
+			<point x="523" y="32" type="line"/>
+			<point x="523" y="438" type="line"/>
+			<point x="770" y="438" type="line"/>
+			<point x="770" y="512" type="line"/>
+			<point x="523" y="512" type="line"/>
+			<point x="523" y="809" type="line"/>
+			<point x="441" y="809" type="line"/>
+			<point x="441" y="51" type="line"/>
+			<point x="441" y="8"/>
+			<point x="418" y="-15"/>
+			<point x="402" y="-27" type="curve"/>
+			<point x="414" y="-42"/>
+			<point x="434" y="-74"/>
+		</contour>
+	</outline>
+</glyph>

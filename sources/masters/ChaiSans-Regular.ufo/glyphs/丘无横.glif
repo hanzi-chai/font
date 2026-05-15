@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="丘无横" format="2">
+	<unicode hex="E400"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="656" y="-7" type="line"/>
+			<point x="656" y="-11" type="line"/>
+			<point x="660" y="-11" type="line"/>
+		</contour>
+		<contour>
+			<point x="660" y="-11" type="line"/>
+			<point x="734" y="-11" type="line"/>
+			<point x="734" y="344" type="line"/>
+			<point x="902" y="344" type="line"/>
+			<point x="902" y="418" type="line"/>
+			<point x="285" y="418" type="line"/>
+			<point x="285" y="606" type="line"/>
+			<point x="477" y="618"/>
+			<point x="695" y="641"/>
+			<point x="832" y="688" type="curve"/>
+			<point x="785" y="754" type="line"/>
+			<point x="652" y="708"/>
+			<point x="410" y="680"/>
+			<point x="211" y="668" type="curve"/>
+			<point x="211" y="-11" type="line"/>
+			<point x="285" y="-11" type="line"/>
+			<point x="285" y="344" type="line"/>
+			<point x="656" y="344" type="line"/>
+			<point x="656" y="-7" type="line"/>
+		</contour>
+	</outline>
+</glyph>

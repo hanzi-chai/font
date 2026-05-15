@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="門字旁" format="2">
+	<unicode hex="E15F"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="369" y="629" type="line"/>
+			<point x="163" y="629" type="line"/>
+			<point x="163" y="743" type="line"/>
+			<point x="369" y="743" type="line"/>
+		</contour>
+		<contour>
+			<point x="99" y="-78" type="line"/>
+			<point x="110" y="-78" type="line" smooth="yes"/>
+			<point x="132" y="-78"/>
+			<point x="163" y="-60"/>
+			<point x="163" y="-51" type="qcurve" smooth="yes"/>
+			<point x="163" y="452" type="line"/>
+			<point x="369" y="452" type="line"/>
+			<point x="369" y="398" type="line"/>
+			<point x="379" y="398" type="line" smooth="yes"/>
+			<point x="394" y="398"/>
+			<point x="432" y="414"/>
+			<point x="433" y="419" type="qcurve"/>
+			<point x="433" y="734" type="line"/>
+			<point x="459" y="739"/>
+			<point x="470" y="752" type="qcurve"/>
+			<point x="395" y="810" type="line"/>
+			<point x="360" y="772" type="line"/>
+			<point x="168" y="772" type="line"/>
+			<point x="99" y="806" type="line"/>
+			<point x="99" y="772" type="line"/>
+		</contour>
+		<contour>
+			<point x="369" y="600" type="line"/>
+			<point x="369" y="482" type="line"/>
+			<point x="163" y="482" type="line"/>
+			<point x="163" y="600" type="line"/>
+		</contour>
+	</outline>
+	<note>
+門字旁
+</note>
+</glyph>

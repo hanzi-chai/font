@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="享字头" format="2">
+	<unicode hex="E006"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="266" y="508" type="line"/>
+			<point x="738" y="508" type="line"/>
+			<point x="738" y="418" type="line"/>
+			<point x="266" y="418" type="line"/>
+		</contour>
+		<contour>
+			<point x="191" y="563" type="line"/>
+			<point x="191" y="364" type="line"/>
+			<point x="816" y="364" type="line"/>
+			<point x="816" y="563" type="line"/>
+		</contour>
+		<contour>
+			<point x="434" y="774" type="line"/>
+			<point x="445" y="750"/>
+			<point x="457" y="723"/>
+			<point x="469" y="696" type="curve"/>
+			<point x="66" y="696" type="line"/>
+			<point x="66" y="629" type="line"/>
+			<point x="938" y="629" type="line"/>
+			<point x="938" y="696" type="line"/>
+			<point x="551" y="696" type="line"/>
+			<point x="539" y="723"/>
+			<point x="523" y="762"/>
+			<point x="508" y="790" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

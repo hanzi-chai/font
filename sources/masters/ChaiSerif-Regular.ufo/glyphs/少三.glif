@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="少三" format="2">
+	<unicode hex="E442"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="275" y="690" type="line"/>
+			<point x="244" y="586"/>
+			<point x="122" y="348"/>
+			<point x="48" y="263" type="qcurve"/>
+			<point x="59" y="252" type="line"/>
+			<point x="148" y="325"/>
+			<point x="292" y="533"/>
+			<point x="338" y="637" type="qcurve"/>
+			<point x="356" y="635"/>
+			<point x="373" y="642"/>
+			<point x="377" y="651" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="651" y="676" type="line"/>
+			<point x="722" y="610"/>
+			<point x="850" y="452"/>
+			<point x="879" y="380" type="qcurve"/>
+			<point x="911" y="360"/>
+			<point x="944" y="401"/>
+			<point x="907" y="500"/>
+			<point x="778" y="625"/>
+			<point x="662" y="685" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="469" y="833" type="line"/>
+			<point x="469" y="232" type="line"/>
+			<point x="480" y="232" type="line" smooth="yes"/>
+			<point x="498" y="232"/>
+			<point x="536" y="255"/>
+			<point x="536" y="264" type="qcurve" smooth="yes"/>
+			<point x="536" y="796" type="line"/>
+			<point x="568" y="800"/>
+			<point x="573" y="822" type="qcurve"/>
+		</contour>
+	</outline>
+	<note>
+少三
+</note>
+</glyph>

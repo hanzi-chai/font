@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="争字底" format="2">
+	<unicode hex="E06D"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="202" y="562" type="line"/>
+			<point x="211" y="533" type="line"/>
+			<point x="452" y="533" type="line"/>
+			<point x="452" y="396" type="line"/>
+			<point x="40" y="396" type="line"/>
+			<point x="49" y="367" type="line"/>
+			<point x="452" y="367" type="line"/>
+			<point x="452" y="223" type="line"/>
+			<point x="140" y="223" type="line"/>
+			<point x="149" y="194" type="line"/>
+			<point x="452" y="194" type="line"/>
+			<point x="452" y="23" type="line" smooth="yes"/>
+			<point x="452" y="11"/>
+			<point x="439" y="1"/>
+			<point x="422" y="1" type="qcurve" smooth="yes"/>
+			<point x="405" y="1"/>
+			<point x="258" y="10"/>
+			<point x="258" y="10" type="qcurve"/>
+			<point x="258" y="-5" type="line"/>
+			<point x="344" y="-15"/>
+			<point x="369" y="-32" type="qcurve"/>
+			<point x="392" y="-44"/>
+			<point x="397" y="-78" type="qcurve"/>
+			<point x="470" y="-72"/>
+			<point x="518" y="-24"/>
+			<point x="518" y="20" type="qcurve" smooth="yes"/>
+			<point x="518" y="194" type="line"/>
+			<point x="744" y="194" type="line"/>
+			<point x="744" y="120" type="line"/>
+			<point x="754" y="120" type="line" smooth="yes"/>
+			<point x="770" y="120"/>
+			<point x="809" y="136"/>
+			<point x="810" y="142" type="qcurve"/>
+			<point x="810" y="367" type="line"/>
+			<point x="944" y="367" type="line" smooth="yes"/>
+			<point x="966" y="367"/>
+			<point x="969" y="382" type="qcurve"/>
+			<point x="950" y="402"/>
+			<point x="884" y="456"/>
+			<point x="884" y="456" type="qcurve"/>
+			<point x="838" y="396" type="line"/>
+			<point x="810" y="396" type="line"/>
+			<point x="810" y="521" type="line"/>
+			<point x="838" y="527"/>
+			<point x="851" y="540" type="qcurve"/>
+			<point x="771" y="602" type="line"/>
+			<point x="734" y="562" type="line"/>
+			<point x="499" y="562" type="line"/>
+			<point x="471" y="561" type="line"/>
+		</contour>
+		<contour>
+			<point x="744" y="223" type="line"/>
+			<point x="518" y="223" type="line"/>
+			<point x="518" y="367" type="line"/>
+			<point x="744" y="367" type="line"/>
+		</contour>
+		<contour>
+			<point x="518" y="396" type="line"/>
+			<point x="518" y="533" type="line"/>
+			<point x="744" y="533" type="line"/>
+			<point x="744" y="396" type="line"/>
+		</contour>
+	</outline>
+	<note>
+争字底
+</note>
+</glyph>

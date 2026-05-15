@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="壳字头" format="2">
+	<unicode hex="E032"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="78" y="434" type="line"/>
+			<point x="78" y="235" type="line"/>
+			<point x="148" y="235" type="line"/>
+			<point x="148" y="372" type="line"/>
+			<point x="844" y="372" type="line"/>
+			<point x="844" y="235" type="line"/>
+			<point x="918" y="235" type="line"/>
+			<point x="918" y="434" type="line"/>
+		</contour>
+		<contour>
+			<point x="457" y="821" type="line"/>
+			<point x="457" y="735" type="line"/>
+			<point x="63" y="735" type="line"/>
+			<point x="63" y="665" type="line"/>
+			<point x="457" y="665" type="line"/>
+			<point x="457" y="575" type="line"/>
+			<point x="137" y="575" type="line"/>
+			<point x="137" y="508" type="line"/>
+			<point x="859" y="508" type="line"/>
+			<point x="859" y="575" type="line"/>
+			<point x="535" y="575" type="line"/>
+			<point x="535" y="665" type="line"/>
+			<point x="938" y="665" type="line"/>
+			<point x="938" y="735" type="line"/>
+			<point x="535" y="735" type="line"/>
+			<point x="535" y="821" type="line"/>
+		</contour>
+	</outline>
+</glyph>

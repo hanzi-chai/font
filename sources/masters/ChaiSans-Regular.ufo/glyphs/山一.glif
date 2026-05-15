@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="山一" format="2">
+	<unicode hex="E990"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="109" y="614" type="line"/>
+			<point x="109" y="94" type="line"/>
+			<point x="898" y="98" type="line"/>
+			<point x="895" y="614" type="line"/>
+			<point x="816" y="614" type="line"/>
+			<point x="816" y="172" type="line"/>
+			<point x="539" y="172" type="line"/>
+			<point x="539" y="809" type="line"/>
+			<point x="461" y="809" type="line"/>
+			<point x="461" y="172" type="line"/>
+			<point x="188" y="172" type="line"/>
+			<point x="188" y="614" type="line"/>
+		</contour>
+		<contour>
+			<point x="63" y="-15" type="line"/>
+			<point x="945" y="-15" type="line"/>
+			<point x="945" y="-78" type="line"/>
+			<point x="63" y="-78" type="line"/>
+		</contour>
+	</outline>
+</glyph>

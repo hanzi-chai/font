@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="临字旁" format="2">
+	<unicode hex="E001"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="353" y="725" type="line"/>
+			<point x="424" y="725" type="line"/>
+			<point x="424" y="58" type="line"/>
+			<point x="353" y="58" type="line"/>
+		</contour>
+		<contour>
+			<point x="519" y="834" type="line"/>
+			<point x="593" y="834" type="line"/>
+			<point x="593" y="-66" type="line"/>
+			<point x="519" y="-66" type="line"/>
+		</contour>
+	</outline>
+</glyph>

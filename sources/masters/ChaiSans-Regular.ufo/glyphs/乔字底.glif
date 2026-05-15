@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="乔字底" format="2">
+	<unicode hex="E0E3"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="648" y="583" type="line"/>
+			<point x="648" y="55" type="line"/>
+			<point x="730" y="55" type="line"/>
+			<point x="730" y="583" type="line"/>
+		</contour>
+		<contour>
+			<point x="273" y="583" type="line"/>
+			<point x="273" y="454" type="line"/>
+			<point x="273" y="340"/>
+			<point x="258" y="208"/>
+			<point x="66" y="110" type="curve"/>
+			<point x="86" y="98"/>
+			<point x="117" y="75"/>
+			<point x="129" y="55" type="curve"/>
+			<point x="332" y="165"/>
+			<point x="355" y="321"/>
+			<point x="355" y="454" type="curve"/>
+			<point x="355" y="583" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="延字心无撇" format="2">
+	<unicode hex="E451"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="305" y="543" type="line"/>
+			<point x="305" y="12" type="line"/>
+			<point x="836" y="12" type="line"/>
+			<point x="836" y="83" type="line"/>
+			<point x="594" y="83" type="line"/>
+			<point x="594" y="372" type="line"/>
+			<point x="824" y="372" type="line"/>
+			<point x="824" y="442" type="line"/>
+			<point x="594" y="442" type="line"/>
+			<point x="594" y="692" type="line"/>
+			<point x="520" y="692" type="line"/>
+			<point x="520" y="83" type="line"/>
+			<point x="375" y="83" type="line"/>
+			<point x="375" y="543" type="line"/>
+		</contour>
+	</outline>
+</glyph>

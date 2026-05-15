@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="乔字底" format="2">
+	<unicode hex="E0E3"/>
+	<advance height="1000" width="1000"/>
+	<outline>
+		<contour>
+			<point x="316" y="246" type="line" smooth="yes"/>
+			<point x="316" y="142"/>
+			<point x="210" y="-16"/>
+			<point x="66" y="-68" type="qcurve"/>
+			<point x="76" y="-83" type="line"/>
+			<point x="252" y="-37"/>
+			<point x="380" y="131"/>
+			<point x="382" y="245" type="qcurve" smooth="yes"/>
+			<point x="382" y="347" type="line"/>
+			<point x="399" y="348"/>
+			<point x="414" y="360"/>
+			<point x="416" y="371" type="qcurve"/>
+			<point x="319" y="382" type="line"/>
+			<point x="316" y="379" type="line"/>
+		</contour>
+		<contour>
+			<point x="610" y="374" type="line"/>
+			<point x="610" y="-77" type="line"/>
+			<point x="622" y="-77" type="line" smooth="yes"/>
+			<point x="640" y="-77"/>
+			<point x="675" y="-62"/>
+			<point x="675" y="-56" type="qcurve" smooth="yes"/>
+			<point x="675" y="336" type="line"/>
+			<point x="701" y="340"/>
+			<point x="708" y="352" type="qcurve"/>
+			<point x="694" y="365" type="line"/>
+		</contour>
+	</outline>
+	<note>
+乔字底
+</note>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="衰字腰" format="2">
+	<unicode hex="E0B8"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="719" y="403" type="line"/>
+			<point x="719" y="325" type="line"/>
+			<point x="277" y="325" type="line"/>
+			<point x="277" y="403" type="line"/>
+		</contour>
+		<contour>
+			<point x="277" y="532" type="line"/>
+			<point x="719" y="532" type="line"/>
+			<point x="719" y="461" type="line"/>
+			<point x="277" y="461" type="line"/>
+		</contour>
+		<contour>
+			<point x="63" y="465" type="line"/>
+			<point x="63" y="399" type="line"/>
+			<point x="207" y="399" type="line"/>
+			<point x="207" y="266" type="line"/>
+			<point x="797" y="266" type="line"/>
+			<point x="797" y="399" type="line"/>
+			<point x="941" y="399" type="line"/>
+			<point x="941" y="465" type="line"/>
+			<point x="797" y="465" type="line"/>
+			<point x="797" y="590" type="line"/>
+			<point x="207" y="590" type="line"/>
+			<point x="207" y="465" type="line"/>
+		</contour>
+	</outline>
+</glyph>

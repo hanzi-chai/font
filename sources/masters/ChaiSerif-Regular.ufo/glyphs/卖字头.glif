@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="卖字头" format="2">
+	<unicode hex="E015"/>
+	<advance height="1880" width="1000"/>
+	<outline>
+		<contour>
+			<point x="758" y="714" type="line"/>
+			<point x="529" y="714" type="line"/>
+			<point x="529" y="803" type="line"/>
+			<point x="562" y="807"/>
+			<point x="565" y="828" type="qcurve"/>
+			<point x="462" y="839" type="line"/>
+			<point x="462" y="714" type="line"/>
+			<point x="119" y="714" type="line"/>
+			<point x="128" y="684" type="line"/>
+			<point x="462" y="684" type="line"/>
+			<point x="462" y="557" type="line"/>
+			<point x="61" y="557" type="line"/>
+			<point x="70" y="527" type="line"/>
+			<point x="826" y="527" type="line"/>
+			<point x="800" y="458"/>
+			<point x="762" y="386" type="qcurve"/>
+			<point x="775" y="380" type="line"/>
+			<point x="853" y="441"/>
+			<point x="910" y="515" type="qcurve"/>
+			<point x="939" y="516"/>
+			<point x="949" y="525" type="qcurve"/>
+			<point x="871" y="601" type="line"/>
+			<point x="826" y="557" type="line"/>
+			<point x="529" y="557" type="line"/>
+			<point x="529" y="684" type="line"/>
+			<point x="876" y="684" type="line" smooth="yes"/>
+			<point x="899" y="684"/>
+			<point x="903" y="700" type="qcurve"/>
+			<point x="880" y="721"/>
+			<point x="808" y="778"/>
+			<point x="808" y="778" type="qcurve"/>
+		</contour>
+	</outline>
+	<note>
+卖字头
+</note>
+</glyph>
