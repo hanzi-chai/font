@@ -71,7 +71,7 @@
 		<key>openTypeNamePreferredSubfamilyName</key>
 		<string>Regular</string>
 		<key>openTypeNameUniqueID</key>
-		<string>Chai Sans Version 0.0.1</string>
+		<string>ChaiSans-0.0.1</string>
 		<key>openTypeNameVersion</key>
 		<string>0.0.1</string>
 		<key>openTypeOS2CodePageRanges</key>
@@ -151,7 +151,7 @@
 		<key>postscriptUnderlineThickness</key>
 		<integer>47</integer>
 		<key>styleMapFamilyName</key>
-		<string>Chai Sans</string>
+		<string>ChaiSans</string>
 		<key>styleMapStyleName</key>
 		<string>regular</string>
 		<key>styleName</key>

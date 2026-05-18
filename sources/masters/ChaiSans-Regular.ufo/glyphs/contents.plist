@@ -4,6 +4,8 @@
 	<dict>
 		<key>.notdef</key>
 		<string>_notdef.glif</string>
+		<key>㐆无折</key>
+		<string>㐆无折.glif</string>
 		<key>㒫字头</key>
 		<string>㒫字头.glif</string>
 		<key>㒳字框</key>
@@ -12,6 +14,8 @@
 		<string>㠯三.glif</string>
 		<key>㳈字边</key>
 		<string>㳈字边.glif</string>
+		<key>㵸字旁头</key>
+		<string>㵸字旁头.glif</string>
 		<key>䏓字旁</key>
 		<string>䏓字旁.glif</string>
 		<key>䯬下角</key>
@@ -64,12 +68,18 @@
 		<string>互无二.glif</string>
 		<key>五无横</key>
 		<string>五无横.glif</string>
+		<key>井变</key>
+		<string>井变.glif</string>
 		<key>亙无二</key>
 		<string>亙无二.glif</string>
+		<key>亚三</key>
+		<string>亚三.glif</string>
 		<key>亜无一</key>
 		<string>亜无一.glif</string>
 		<key>亞无一</key>
 		<string>亞无一.glif</string>
+		<key>亥三</key>
+		<string>亥三.glif</string>
 		<key>亦字底</key>
 		<string>亦字底.glif</string>
 		<key>亦字底无八</key>
@@ -88,6 +98,8 @@
 		<string>修字旁.glif</string>
 		<key>倉字腰</key>
 		<string>倉字腰.glif</string>
+		<key>倉字腰带丶</key>
+		<string>倉字腰带丶.glif</string>
 		<key>候右角</key>
 		<string>候右角.glif</string>
 		<key>充字头</key>
@@ -98,8 +110,12 @@
 		<string>兑字头.glif</string>
 		<key>全字头</key>
 		<string>全字头.glif</string>
+		<key>兪字头</key>
+		<string>兪字头.glif</string>
 		<key>共字底</key>
 		<string>共字底.glif</string>
+		<key>其字头</key>
+		<string>其字头.glif</string>
 		<key>其字头无横</key>
 		<string>其字头无横.glif</string>
 		<key>具字头</key>
@@ -218,10 +234,16 @@
 		<string>妻字头无横.glif</string>
 		<key>姊字边</key>
 		<string>姊字边.glif</string>
+		<key>姊字边无丨丿</key>
+		<string>姊字边无丨丿.glif</string>
+		<key>婁字头无口</key>
+		<string>婁字头无口.glif</string>
 		<key>学字头</key>
 		<string>学字头.glif</string>
 		<key>学无子</key>
 		<string>学无子.glif</string>
+		<key>宐字底无横</key>
+		<string>宐字底无横.glif</string>
 		<key>定字底</key>
 		<string>定字底.glif</string>
 		<key>寒字腰</key>
@@ -264,6 +286,8 @@
 		<string>带无巾.glif</string>
 		<key>帶字头</key>
 		<string>帶字头.glif</string>
+		<key>帶字头无一</key>
+		<string>帶字头无一.glif</string>
 		<key>年字底</key>
 		<string>年字底.glif</string>
 		<key>应字心</key>
@@ -278,6 +302,8 @@
 		<string>弟省无弓.glif</string>
 		<key>弬字边</key>
 		<string>弬字边.glif</string>
+		<key>弬字边心</key>
+		<string>弬字边心.glif</string>
 		<key>彀字框无一</key>
 		<string>彀字框无一.glif</string>
 		<key>录字头</key>
@@ -292,8 +318,12 @@
 		<string>恭字底无丶.glif</string>
 		<key>惠字头</key>
 		<string>惠字头.glif</string>
+		<key>惠字头无点</key>
+		<string>惠字头无点.glif</string>
 		<key>憂字头</key>
 		<string>憂字头.glif</string>
+		<key>戈无一</key>
+		<string>戈无一.glif</string>
 		<key>或字心</key>
 		<string>或字心.glif</string>
 		<key>扁字心</key>
@@ -402,6 +432,8 @@
 		<string>癶右半.glif</string>
 		<key>益字头</key>
 		<string>益字头.glif</string>
+		<key>盡字头无灬</key>
+		<string>盡字头无灬.glif</string>
 		<key>盥左角</key>
 		<string>盥左角.glif</string>
 		<key>眉字框</key>
@@ -428,10 +460,16 @@
 		<string>经右角.glif</string>
 		<key>美字头</key>
 		<string>美字头.glif</string>
+		<key>耉字框无耂</key>
+		<string>耉字框无耂.glif</string>
 		<key>聿三</key>
 		<string>聿三.glif</string>
+		<key>臣字心</key>
+		<string>臣字心.glif</string>
 		<key>臦字旁</key>
 		<string>臦字旁.glif</string>
+		<key>臦字旁心</key>
+		<string>臦字旁心.glif</string>
 		<key>臧字框</key>
 		<string>臧字框.glif</string>
 		<key>臼裂</key>
@@ -456,6 +494,8 @@
 		<string>虐字底.glif</string>
 		<key>虛字底</key>
 		<string>虛字底.glif</string>
+		<key>虛字底无一</key>
+		<string>虛字底无一.glif</string>
 		<key>虫无口</key>
 		<string>虫无口.glif</string>
 		<key>衣框</key>
@@ -466,6 +506,8 @@
 		<string>衣省变.glif</string>
 		<key>衰字腰</key>
 		<string>衰字腰.glif</string>
+		<key>襄字头</key>
+		<string>襄字头.glif</string>
 		<key>西字心</key>
 		<string>西字心.glif</string>
 		<key>见二</key>
@@ -552,6 +594,8 @@
 		<string>黄字底.glif</string>
 		<key>黎右角</key>
 		<string>黎右角.glif</string>
+		<key>黑五</key>
+		<string>黑五.glif</string>
 		<key>黽字心</key>
 		<string>黽字心.glif</string>
 		<key>黽左角</key>
@@ -562,6 +606,8 @@
 		<string>鼎左角.glif</string>
 		<key>鼠字底</key>
 		<string>鼠字底.glif</string>
+		<key>齊字头</key>
+		<string>齊字头.glif</string>
 		<key>龍字边</key>
 		<string>龍字边.glif</string>
 		<key>龙下角</key>
@@ -570,5 +616,7 @@
 		<string>龜字心无撇.glif</string>
 		<key>龟字底</key>
 		<string>龟字底.glif</string>
+		<key>龠字头</key>
+		<string>龠字头.glif</string>
 	</dict>
 </plist>

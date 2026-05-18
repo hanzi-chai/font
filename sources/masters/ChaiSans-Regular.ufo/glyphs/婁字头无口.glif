@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="婁字头无口" format="2">
+	<unicode hex="E118"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="230" y="543" type="line"/>
+			<point x="775" y="543" type="line"/>
+			<point x="775" y="384" type="line"/>
+			<point x="230" y="384" type="line"/>
+		</contour>
+		<contour>
+			<point x="162" y="598" type="line"/>
+			<point x="162" y="329" type="line"/>
+			<point x="847" y="329" type="line"/>
+			<point x="847" y="598" type="line"/>
+		</contour>
+		<contour>
+			<point x="54" y="494" type="line"/>
+			<point x="54" y="434" type="line"/>
+			<point x="205" y="434" type="line"/>
+			<point x="205" y="440" type="line"/>
+			<point x="796" y="440" type="line"/>
+			<point x="796" y="434" type="line"/>
+			<point x="945" y="434" type="line"/>
+			<point x="945" y="494" type="line"/>
+			<point x="796" y="494" type="line"/>
+			<point x="796" y="488" type="line"/>
+			<point x="205" y="488" type="line"/>
+			<point x="205" y="494" type="line"/>
+		</contour>
+		<contour>
+			<point x="459" y="663" type="line"/>
+			<point x="459" y="143" type="line"/>
+			<point x="532" y="143" type="line"/>
+			<point x="532" y="663" type="line"/>
+		</contour>
+	</outline>
+</glyph>
